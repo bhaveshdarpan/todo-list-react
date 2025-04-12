@@ -1,9 +1,3 @@
-
----
-
-### ToDo Application (React)
-
-```markdown
 # 📝 ToDo Application (React)
 
 A modern ToDo list application built using **React**. This app provides an intuitive interface to manage tasks efficiently.
