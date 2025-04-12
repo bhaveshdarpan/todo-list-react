@@ -8,7 +8,6 @@ A modern ToDo list application built using **React**. This app provides an intui
 - Mark tasks as complete/incomplete
 - Filter tasks (All, Active, Completed)
 - Responsive layout
-- Local storage support (optional)
 
 ## 🛠️ Tech Stack
 
